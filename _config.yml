@@ -1,0 +1,9 @@
+exclude:
+  - node_modules
+  - app/node_modules
+  - docs/node_modules
+  - package.json
+  - package-lock.json
+  - yarn.lock
+keep_files:
+  - docs
