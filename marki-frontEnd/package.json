@@ -3,7 +3,7 @@
   "license": "0BSD",
   "version": "1.0.0",
   "main": "app/index.js",
-  "homepage": "https://markiAI.github.io/marki-frontEnd/",
+  "homepage": "https://markiAI.github.io/",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
