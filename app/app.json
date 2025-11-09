@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "markiFrontEnd",
+    "slug": "markiFrontEnd",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "build": {
+        "publicPath": "/"
+      }
+    },
+
+    "jsEngine": "jsc",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
